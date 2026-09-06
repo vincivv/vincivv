@@ -23,7 +23,7 @@
 
 ### Main skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,spring,ts,js,nodejs,express,react,postgres,mysql,docker,aws,linux,nginx,git,github,postman,vite,cpp)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,java,spring,ts,js,nodejs,express,react,postgres,mysql,docker,linux,nginx,vercel,render,git,github,postman,vite,cpp)
 
 ### Studying
 
@@ -48,22 +48,12 @@
     <a href="mailto:dialmair.7@gmail.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/vincivv">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
 </div>
 
 ### Employer?
 
 > [!IMPORTANT]
 > Based in the San Francisco Bay Area, open to relocation. Strongest in Python/FastAPI and Java/Spring backends, LLM and voice pipelines, and getting things actually deployed on AWS.
-
-### Stats
-
-<div>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vincivv&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincivv&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top languages"/>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" alt="footer"/>
 
