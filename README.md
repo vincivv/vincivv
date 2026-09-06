@@ -1,62 +1,11 @@
-<!--
-    Hey, I'm Dias Almat.
-    Nice of you to open the source instead of just scrolling.
-    Feel free to borrow anything here for your own profile.
-    If it was useful, a follow back would make my day :)
-    LinkedIn: in/dias-almat
--->
+# 💫 About Me:
+🎯 I'm currently working on<br>Vector Predictor, a volunteer ML project with the Living Stones Foundation, and turning my Voice QA Agent into a reusable harness for testing AI phone agents.<br><br>🤝 I'm looking to collaborate on<br>Backend and AI infrastructure: LLM and voice pipelines, API design, and anything where the database schema actually matters.<br><br>📱 I'm looking for help with<br>Landing my first full-time software engineering role, and getting sharper at system design at production scale.<br><br>🌱 I'm currently learning<br>AWS services, LLM engineering, and system design fundamentals.<br><br>💬 Ask me about<br>FastAPI, Java and Spring Boot, PostgreSQL and MySQL schema design, Whisper and GPT pipelines, and deploying to EC2 and RDS behind nginx.<br><br>🎉 Fun fact<br>I speak several languages, and I read codebases the same way I learned them: grammar first, then the idioms.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header" alt="header"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dias-almat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dialmair.7@gmail.com)
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3800&pause=600&color=58A6FF&width=520&lines=Hello%2C+it's+Dias+Almat;Software+Engineer;AI+%2B+Backend+Developer;Currently+looking+for+my+first+SWE+role" alt="Software Engineer"/>
-</a>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--
-    The terminal card is a hand-rolled animated SVG in ./assets/about_dias.svg
-    Edit the text in that file and the animation retimes itself.
--->
-
-<div>
-    <img width="800" src="https://raw.githubusercontent.com/vincivv/vincivv/main/assets/about_dias.svg" alt="About Me Terminal"/>
-</div>
-
-### Main skills
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,java,spring,ts,js,nodejs,express,react,postgres,mysql,docker,linux,nginx,vercel,render,git,github,postman,vite,cpp)
-
-### Studying
-
-[![Learning](https://skillicons.dev/icons?i=aws,kubernetes,redis,graphql)](https://skillicons.dev)
-
-### What I'm building
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Voice QA Agent](https://github.com/vincivv/Voice-QA-Agent)** | Calls healthcare voice agents, runs scripted test scenarios against them, and flags bugs from the transcripts. 99% transcription accuracy across 15 live scenarios, 5 real bugs caught. | FastAPI · Whisper · GPT-4o-mini · SignalWire |
-| **[Robo Nexus](https://github.com/vincivv/Robo-Nexus)** | Custom ORM and query engine over a 47-table MySQL schema for managing robot fleets. Cut query-construction code by 92% versus raw SQL. | Python · MySQL |
-| **[Home4U](https://github.com/vincivv/Home4U)** | Full-stack interior design planner with an AI room-styling feature. Deployed on AWS EC2 and RDS behind nginx and systemd. | React · FastAPI · PostgreSQL · AWS |
-| **[UNO Online](https://github.com/vincivv/Uno)** | Browser multiplayer UNO with real-time game state pushed over Server-Sent Events. | TypeScript · Express · PostgreSQL |
-| **[HistoricalMap](https://github.com/vincivv/HistoricalMap)** | Interactive full-stack explorer for ancient civilizations. | JavaScript · Node.js |
-
-### Connect with me!
-
-<div>
-    <a href="https://www.linkedin.com/in/dias-almat/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:dialmair.7@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-</div>
-
-### Employer?
-
-> [!IMPORTANT]
-> Based in the San Francisco Bay Area, open to relocation. Strongest in Python/FastAPI and Java/Spring backends, LLM and voice pipelines, and getting things actually deployed on AWS.
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" alt="footer"/>
-
-<!--
-    Thanks for stopping by.
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
